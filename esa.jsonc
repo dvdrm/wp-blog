@@ -1,6 +1,5 @@
 {
   "build": {
-    "buildCommand": "npx pagefind --site .",
-    "assetsDirectory": "."
+    "outputDir": "."
   }
 }
